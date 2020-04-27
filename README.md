@@ -1,1 +1,1 @@
-# courseRegistrationSystem
+# Distributed Course Registration System
