@@ -1,0 +1,15 @@
+module DCRS_CORBA{
+
+interface DCRSInterface {
+	
+	 boolean addCourse(in string courseID,in string semester,in long capacity);
+	 boolean removeCourse(in string courseID,in string semester);
+	 string listCourseAvailability (in string semester);
+	 boolean enrolCourse (in string studentID,in string courseID,in string semester);
+	 string getClassSchedule(in string studentID);
+	 boolean dropCourse(in string studentID,in string courseID);
+	 boolean swapCourse(in string studentID,in string oldcourseID,in string newcourseID);
+	
+
+};
+};

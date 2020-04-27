@@ -1,0 +1,12 @@
+Nov 04, 2018 4:01:33 PM Servers.COMPServer inputTerms
+INFO: {fall={COMP6481=10, COMP6461=10, COMP6451=10, COMP6431=10}}
+Nov 04, 2018 4:01:33 PM Servers.COMPServer inputTerms
+INFO: {fall={COMP6481=10, COMP6461=10, COMP6451=10, COMP6431=10}, summer={COMP6592=10, COMP6593=10, COMP6594=10, COMP6595=10}}
+Nov 04, 2018 4:01:33 PM Servers.COMPServer inputTerms
+INFO: {fall={COMP6481=10, COMP6461=10, COMP6451=10, COMP6431=10}, winter={COMP6681=10, COMP6651=10, COMP6641=10}, summer={COMP6592=10, COMP6593=10, COMP6594=10, COMP6595=10}}
+Nov 04, 2018 4:01:33 PM Servers.COMPServer receive
+INFO: Server 5555 Started............
+Nov 04, 2018 4:02:02 PM Servers.COMPServer sendMessage
+INFO: Request message sent from the client to server with port number 6666 is: INSE6461,fall,enroll
+Nov 04, 2018 4:02:02 PM Servers.COMPServer sendMessage
+INFO: Request message sent from the client to server with port number 6666 is: INSE6461,fall,enroll
